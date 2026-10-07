@@ -76,4 +76,5 @@ Password: `TestUser@123`
 
 ## Built By
 
-Om Harwalkar — [Shell Securities](https://shellsecurities.in)
+Om Harwalkar
+
