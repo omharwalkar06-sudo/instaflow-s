@@ -8,7 +8,7 @@ InstaFlow is a B2B SaaS platform that helps Indian brands and agencies scale the
 
 ## The Problem
 
-Indian brands pay agencies ₹50,000–2,00,000/month to manually manage Instagram growth across multiple accounts. It's slow, expensive, and doesn't scale.
+Indian brands pay agencies ₹1,50,000–3,50,000/month to manually manage Instagram growth across multiple accounts. It's slow, expensive, and doesn't scale.
 
 ---
 
